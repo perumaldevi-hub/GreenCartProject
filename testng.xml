@@ -1,0 +1,10 @@
+<suite name ="Automation Testing Suite">
+
+<test name = "Everyday Fresh">
+<classes>
+<class name = "Test.Test1"/>
+
+
+</classes>
+</test>
+</suite>
